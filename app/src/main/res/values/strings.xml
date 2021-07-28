@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="tic_tac_toe">Tic Tac Toe</string>
+    <string name="_0">0</string>
+    <string name="scorecard">scorecard</string>
+    <string name="grid">grid</string>
+    <string name="imageBox">imageBox</string>
+    <string name="status">Match Start</string>
+    <string name="new_game">New Game</string>
+    <string name="exit">Exit</string>
+    <string name="play_again">Play Again</string>
+    <string name="exit_now">Exit Now</string>
+</resources>
